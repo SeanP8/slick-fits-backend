@@ -1,0 +1,24 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+.vscode
+
+psd
+thumb
+sketch
+
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+*.env
+.keystone
