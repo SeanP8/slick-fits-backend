@@ -1,11 +1,13 @@
 {
-  "name": "sick-fits-backend",
+  "name": "slick-fits-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "Sean Pitfield",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
+    "start": "keystone-next start",
+    "build": "keystone-next build",
     "seed-data": "keystone-next --seed-data"
   },
   "eslintConfig": {
